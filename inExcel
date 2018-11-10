@@ -1,0 +1,8 @@
+=RANDBETWEEN (lowest number, highest number)
+OR
+=RANDBETWEEN (cell in column with lowest number, cell in colomn with highest number)
+
+*Or if want random numbers between 0 and 1, then use =RAND instead of =RANDBETWEEN*
+
+*Don't forget that it will keep generating different random numbers, so copy and paste the cell or column 
+into a new cell column pasting values only**
